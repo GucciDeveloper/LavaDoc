@@ -1,2 +1,2 @@
 <h1>LavaDoc</h1>
-![2023_05_25_0sq_Kleki](https://github.com/GucciDeveloper/LavaDoc/assets/130172221/0477b79d-79bb-4c06-af5a-fdfd13f7504a)
+<img src = "https://github.com/GucciDeveloper/LavaDoc/assets/130172221/06276899-725e-4943-8e5f-c71c0d6e385e"></img>
