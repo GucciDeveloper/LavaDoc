@@ -10,3 +10,5 @@
 <img width="457" alt="Screen Shot 2023-05-25 at 4 40 26 PM" src="https://github.com/GucciDeveloper/LavaDoc/assets/130172221/223aa306-6099-4150-89a1-cab10d2e8b0d">
 
 ##### We can obviously see that the LavaDoc library removes basic boilerplate code in JavaScript.
+
+[How to use?]()
